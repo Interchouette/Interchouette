@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/itcy-mascot.png" alt="ITCy - Interchouette ITC mascot" width="220" />
+  <img src="assets/logo-fun.png" alt="ITCy - Interchouette ITC mascot" width="220" />
 </p>
 
 <h1 align="center">ITCy</h1>
