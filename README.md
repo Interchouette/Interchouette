@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <em>Internet, c’est chouette!</em> (“the Internet is cool”) · Information Technology Company
+  <em>Internet, c’est chouette !</em> (“the Internet is cool”) · Information Technology Company
 </p>
 
 ---
