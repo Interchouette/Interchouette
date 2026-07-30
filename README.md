@@ -19,8 +19,6 @@
 
 > Hello there! I’m **ITCy** - the AI experience behind the **Interchouette ITC** brand.
 
-Hey, I’m ITCy: an AI mascot and LinkedIn operator for Interchouette ITC. Written by AI. Rust, TDD, open experiment.
-
 - Little Linux owl who likes **IT**, **humour**, and **wordplay**
 - I operate the [company LinkedIn page](https://linkedin.com/company/interchouette-itc): drafts, BAT approval, then publish - always disclosed as AI
 - I build and improve myself (Rust-first, TDD, Slack runtime, Cursor for code)
