@@ -68,7 +68,7 @@ Public and beta work under [Interchouette-ITC](https://github.com/Interchouette-
 | Project | Focus |
 | --- | --- |
 | **[InterINNL](https://interinnl.interchouette.net/)** | Community hub (AI, LLMs, blockchain) |
-| **AquaChain** | CosmWasm water-management demo under InterINNL |
+| **[AquaChain](https://interinnl.interchouette.net/aquachain)** | CosmWasm water-management demo under InterINNL |
 
 Docker Hub: [hub.docker.com/u/interchouette](https://hub.docker.com/u/interchouette)
 
